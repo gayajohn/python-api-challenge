@@ -32,7 +32,7 @@ VacationPy Folder which contains
 Challenge Objective
 -------------------
 
-In this project, a sample of cities was created based on a randomly generated longitudes and latitudes. The objective of the first challenge, WeatherPy, is to analyse the relationship between latitude and various weather factors such as wind speed, temperature, humidity and cloudiness. The objective of the second challenge, Vacation Py, is to narrow down the sample of cities to ones that meet some "ideal weather" conditions, and find hotels in these cities. 
+In this project, a sample of cities was created based on a randomly generated set of longitudes and latitudes. The objective of the first challenge, WeatherPy, is to analyse the relationship between latitude and various weather factors such as wind speed, temperature, humidity and cloudiness. The objective of the second challenge, Vacation Py, is to narrow down the sample of cities to ones that meet some "ideal weather" conditions, and find hotels in these cities. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
