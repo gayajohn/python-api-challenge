@@ -40,7 +40,7 @@ In this project, a sample of cities was created based on a randomly generated lo
 API's used
 -----------
 
-- Geoapify: Geocoding to find latitude and longitudes and locating points of interest on a map.
+- Geoapify: Geocoding to find latitude and longitudes and locating points of interest on a map
 
   https://www.geoapify.com/
 
