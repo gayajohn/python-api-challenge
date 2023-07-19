@@ -36,6 +36,24 @@ In this project, a sample of cities was created based on a randomly generated lo
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+-----------
+API's used
+-----------
+
+- Geoapify: Geocoding to find latitude and longitudes and locating points of interest on a map.
+
+  https://www.geoapify.com/
+
+- CitiPy: Looking up cities with geocoordinates
+
+  https://github.com/wingchen/citipy
+
+- OpenWeather API: Get weather information on given cities
+
+  https://openweathermap.org/api
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ----------
 References
 ----------
